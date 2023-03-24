@@ -1,0 +1,6 @@
+[
+  { "fruitName": "사과", "maxPrice": 1900, "minPrice": 600 },
+  { "fruitName": "딸기", "maxPrice": 7500, "minPrice": 4700 },
+  { "fruitName": "수박", "maxPrice": 23900, "minPrice": 12600 },
+  { "fruitName": "포도", "maxPrice": 16500, "minPrice": 15100 }
+]

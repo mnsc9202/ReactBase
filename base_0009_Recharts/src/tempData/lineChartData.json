@@ -1,0 +1,14 @@
+[
+  { "year": "2001년", "height": 120.3, "weight": 38.7 },
+  { "year": "2002년", "height": 124.7, "weight": 45.2 },
+  { "year": "2003년", "height": 128.4, "weight": 48.9 },
+  { "year": "2004년", "height": 133.8, "weight": 55.1 },
+  { "year": "2005년", "height": 140.6, "weight": 44.8 },
+  { "year": "2006년", "height": 142.1, "weight": 43.3 },
+  { "year": "2007년", "height": 150.5, "weight": 41.1 },
+  { "year": "2008년", "height": 154.9, "weight": 48.9 },
+  { "year": "2009년", "height": 158.3, "weight": 50.1 },
+  { "year": "2010년", "height": 161.7, "weight": 62.2 },
+  { "year": "2011년", "height": 165.3, "weight": 57.7 },
+  { "year": "2012년", "height": 174.7, "weight": 64.2 }
+]

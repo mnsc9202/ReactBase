@@ -1,0 +1,7 @@
+/* barchart */
+/* 격자선 (시작, 마지막) 수정 */
+.recharts-wrapper .recharts-cartesian-grid-horizontal line:first-child,
+.recharts-wrapper .recharts-cartesian-grid-horizontal line:last-child {
+  stroke: #aec2b6;
+  stroke-dasharray: none;
+}

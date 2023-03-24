@@ -1,0 +1,7 @@
+[
+  { "subject": "국어", "score": 58, "averageScore": 79, "perfectScore": 100 },
+  { "subject": "영어", "score": 71, "averageScore": 48, "perfectScore": 100 },
+  { "subject": "수학", "score": 96, "averageScore": 58, "perfectScore": 100 },
+  { "subject": "사회", "score": 35, "averageScore": 81, "perfectScore": 100 },
+  { "subject": "과학", "score": 88, "averageScore": 58, "perfectScore": 100 }
+]
